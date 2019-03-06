@@ -13,6 +13,7 @@ Things you may want to cover:
   
   ・Rails = 5.2.2
 　
+ 
  ・Bundler = version 2.0.1
  
 * System dependencies
